@@ -19,6 +19,7 @@ I am a backend developer who enjoys sharing knowledge and learning through exper
 - 💼 **Full-stack Developer**, Construction Cost Management Web Solution — 2024.10 ~ Present (2nd year)
 - 🎓 NHN Academy, IoT/AI-based Java Backend course — 2023.09 ~ 2024.06 (10 months)
 - 🎓 NHN Academy, Java Classic 1 course — 2023.07 ~ 2023.08 (6 weeks)
+- 🏫 Gyeongsang National University, B.A. in Law — 2017.03 ~ 2022.02
 
 <br>
 
